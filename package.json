@@ -6,12 +6,12 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "coveralls": "^2.11.9",
-    "cz-conventional-changelog": "^1.1.5",
-    "istanbul": "^0.4.2",
-    "jscs": "^2.11.0",
-    "jshint": "^2.9.1",
-    "mocha": "^2.4.5",
-    "posthtml": "^0.8.5",
+    "cz-conventional-changelog": "^1.1.6",
+    "istanbul": "^0.4.3",
+    "jscs": "^3.0.3",
+    "jshint": "^2.9.2",
+    "mocha": "^2.5.3",
+    "posthtml": "^0.8.7",
     "version-bump-prompt": "^1.5.2"
   },
   "peerDependencies": {},
